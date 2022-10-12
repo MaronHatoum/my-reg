@@ -11,5 +11,8 @@
     "url": "my-reg"
   },
   "author": "maron",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+   "@MaronHatoum:registry": "https://npm.pkg.github.com"
+ }
 }
